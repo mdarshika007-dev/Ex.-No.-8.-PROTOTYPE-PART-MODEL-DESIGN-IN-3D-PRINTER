@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:T.NITHYAA SHREE
+### Register Number:212225220069
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
