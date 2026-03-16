@@ -46,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![alt text](<../Screenshot (243).png>)
+
+![alt text](<Screenshot (241).png>)
 
 ### Name:T.NITHYAA SHREE
 ### Register Number:212225220069
